@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "460080062991",
+    "project_id": "app-krishak",
+    "storage_bucket": "app-krishak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460080062991:android:c7e50181b8201218c8397a",
+        "android_client_info": {
+          "package_name": "com.example.krishak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460080062991-4fkoakn587m7glnc4fakim1ee5uae4b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASB-B59Cfkujlj0IZgTxAsWKVqvlrjwT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460080062991-4fkoakn587m7glnc4fakim1ee5uae4b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
